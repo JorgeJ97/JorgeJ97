@@ -13,7 +13,8 @@ Soy un desarrollador de software apasionado por el backend y la arquitectura de 
 
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![MySkills](https://skillicons.dev/icons?i=react,redux,css,html)](https://skillicons.dev)
+
 
 ### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
