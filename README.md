@@ -5,9 +5,7 @@ Soy un desarrollador de software apasionado por el backend y la arquitectura de 
 ## 🛠 Tecnologías y Herramientas
 
 ### Lenguajes de Programación
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
 
 
 ### Backend
