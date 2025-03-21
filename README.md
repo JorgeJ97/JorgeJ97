@@ -13,15 +13,14 @@ Soy un desarrollador de software apasionado por el backend y la arquitectura de 
 
 
 ### Frontend
-[![MySkills](https://skillicons.dev/icons?i=react,redux,css,html)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=react,redux,css,html,tailwind)](https://skillicons.dev)
 
 
 ### Bases de Datos
 [![MySkills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 ### DevOps y Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![MySkills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 ## 🚀 Sobre Mí
 - 💡 Me gusta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
