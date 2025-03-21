@@ -28,8 +28,8 @@ Soy un desarrollador de software apasionado por el backend y la arquitectura de 
 - 🔍 Actualmente, me estoy preparando para el examen de la certificacion AWS Developer Associate, ademas de profundizar en arquitecturas como **microservicios** y **hexagonal**.
 
 ## 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgej97/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeJ97)
+[![MySkills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(www.linkedin.com/in/jorge-jimenez-franco)
+
 
 ---
 ⭐ **¡Gracias por visitar mi perfil!**
