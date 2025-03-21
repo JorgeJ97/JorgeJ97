@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Jorge!
 
-Soy un desarrollador apasionado por el backend y la arquitectura de software. Me encanta construir aplicaciones escalables y eficientes, explorando tecnologías modernas para crear soluciones innovadoras. 🚀
+Soy un desarrollador de software apasionado por el backend y la arquitectura de software. Enfocado en construir aplicaciones escalables y eficientes, explorando tecnologías modernas para crear soluciones innovadoras. 🚀
 
 ## 🛠 Tecnologías y Herramientas
 
