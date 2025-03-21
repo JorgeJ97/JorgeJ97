@@ -9,8 +9,8 @@ Soy un desarrollador de software apasionado por el backend y la arquitectura de 
 
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+[![MySkills](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
