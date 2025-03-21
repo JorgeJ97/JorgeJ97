@@ -17,8 +17,7 @@ Soy un desarrollador de software apasionado por el backend y la arquitectura de 
 
 
 ### Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![MySkills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 ### DevOps y Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
