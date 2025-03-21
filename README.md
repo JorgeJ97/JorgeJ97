@@ -29,6 +29,7 @@ Soy un desarrollador de software apasionado por el backend y la arquitectura de 
 
 ## 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-jimenez-franco)
+
 jimenez.jorge9712@gmail.com
 
 
