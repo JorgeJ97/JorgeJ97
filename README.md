@@ -26,7 +26,7 @@ Soy un desarrollador de software apasionado por el backend y la arquitectura de 
 - 💡 Me gusta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
 - 🏗 Me interesa la arquitectura de software y las buenas prácticas de desarrollo.
 - 🔍 Actualmente, me estoy preparando para el examen de la certificacion AWS Solutions Architect, ademas de profundizar en arquitecturas como **microservicios** y **hexagonal**.
-- 🎨 Mis dos hobbies son jugar ajedrez ♟️ y entrenar pesas 🏋️😎.
+- 🎨 Mis dos hobbies son jugar ajedrez ♟️ e ir al gimnasio 🏋️😎.
 
 ## 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-jimenez-franco)
